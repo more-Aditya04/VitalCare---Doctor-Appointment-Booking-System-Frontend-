@@ -10,10 +10,18 @@ Frontend:
 
 VitalCare - Doctor Appointment Booking Website is a Frontend Project where users can book there appointment with the different doctors & can find different speciality doctors & 50+ trusted doctors 
 
+![Screenshot (14)](https://github.com/user-attachments/assets/09cbd610-eb88-4ea7-bdd4-392f75837b6e)
+
+
 Features :
 1) Doctors Profiles : Detailed profiles of each doctors has been displayed including specifications, Experience, Fees & its availability.
 2) Appointment Booking : Easy to book appointment with different specialized doctors with proper date & time selection for convenient scheduling.
 3) User Profiles info & its Appointment : Display user profile with its basic info like Name, DOB, Gender etc & display user appointment with different doctors.
-4) Payment online & Appointment Cancel : Online payment & Appointment cancel options are also available in this website. 
+4) Payment online & Appointment Cancel : Online payment & Appointment cancel options are also available in this website.
+5) Search and Filter: Quickly search and filter doctors based on specialization, location, or other parameters.
+6) Responsive Design: Optimized for desktop, tablet, and mobile screens for a seamless experience across devices.
 
-![Screenshot (14)](https://github.com/user-attachments/assets/2462f0e5-d98f-4268-84f9-6fe246612986)
+![Screenshot (17)](https://github.com/user-attachments/assets/8e71f3a4-bc5e-4858-aeb1-0bce259990ad)
+Fliter & search doctors based on specialization
+
+
