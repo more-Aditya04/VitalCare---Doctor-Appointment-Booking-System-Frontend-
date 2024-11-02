@@ -23,9 +23,16 @@ Features :
 7) Create Account & Log in : New Users can create Account with Name , Email & Password on this website & the existing user can login into the website
 
 
-   
+![Screenshot (20)](https://github.com/user-attachments/assets/3c39282c-dbe2-4ac6-a708-9a9f14a38660)
+Display Doctor Profiles with experience, Appointment fees & user can book appointment in available time slot
+
+
+
 
 ![Screenshot (17)](https://github.com/user-attachments/assets/8e71f3a4-bc5e-4858-aeb1-0bce259990ad)
 Filter & search doctors based on specialization
+
+![Screenshot (21)](https://github.com/user-attachments/assets/ef034bb8-fdee-454b-bf9a-4eb2a6bc814d)ith
+Display user appointment with doctors & can pay online fees according to doctors or can cancel appointment 
 
 
