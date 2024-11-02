@@ -20,8 +20,12 @@ Features :
 4) Payment online & Appointment Cancel : Online payment & Appointment cancel options are also available in this website.
 5) Search and Filter: Quickly search and filter doctors based on specialization, location, or other parameters.
 6) Responsive Design: Optimized for desktop, tablet, and mobile screens for a seamless experience across devices.
+7) Create Account & Log in : New Users can create Account with Name , Email & Password on this website & the existing user can login into the website
+
+
+   
 
 ![Screenshot (17)](https://github.com/user-attachments/assets/8e71f3a4-bc5e-4858-aeb1-0bce259990ad)
-Fliter & search doctors based on specialization
+Filter & search doctors based on specialization
 
 
